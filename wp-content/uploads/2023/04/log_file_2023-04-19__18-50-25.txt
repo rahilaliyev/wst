@@ -1,0 +1,107 @@
+
+---Downloaded files---
+The import files for: Home v7 (LearnPress) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wst
+Data file = C:\xampp\htdocs\wst/wp-content/uploads/2023/04/demo-content-import-file_2023-04-19__18-50-25.xml
+Widget file = C:\xampp\htdocs\wst/wp-content/uploads/2023/04/demo-widgets-import-file_2023-04-19__18-50-25.json
+Customizer file = C:\xampp\htdocs\wst/wp-content/uploads/2023/04/demo-customizer-import-file_2023-04-19__18-50-25.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+(Edubin) Blog Sidebar : 
+
+Search - No Title - Imported
+Edubin Recent Post - Recent Posts - Imported
+Categories - No Title - Imported
+
+(Edubin) Footer 1 : 
+
+Image - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+(Edubin) Footer 2 : 
+
+Navigation Menu - Feature Links - Imported
+
+(Edubin) Footer 3 : 
+
+Navigation Menu - Support - Imported
+
+(Edubin) Footer 4 : 
+
+Text - Contact Us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
